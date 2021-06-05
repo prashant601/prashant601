@@ -8,8 +8,8 @@
         src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-128.png"
         width="35" margin-top="3px"/> <b> India</b></p>
         
-### About me
-- 👨‍🎓 I am sophomore at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR and persuing Btech from Computer Science engineering branch.
+### About me:
+- 👨‍🎓 I am CSE sophomore at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
 - 🔭 I’m currently working on MERN stack applications
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on projects
@@ -79,7 +79,7 @@
 <img  alt="MySQL" width="40" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> -->
 </p>
 
-<h3> Check out my work</h3>
+<h3> Check out my work:</h3>
 <table>
   <thead align="center">
     <tr border: none;>
