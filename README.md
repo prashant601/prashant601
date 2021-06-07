@@ -112,6 +112,11 @@
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
+    <tr>
+      <td><a href="https://image--gallery.herokuapp.com/"><b>Image gallery</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=0&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>  
   </tbody>
 </table>
 
