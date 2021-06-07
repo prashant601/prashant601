@@ -7,7 +7,10 @@
 <p>Welcome to my profile! </br> I'm Prashant from Kanpur, <img
         src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-128.png"
         width="35" margin-top="3px"/> <b> India</b></p>
-        
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=prashant601&color=blueviolet" alt="Prashant Profile Views" />
+</p>
+
 ### About me:
 - 👨‍🎓 I am CSE sophomore at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
 - 🔭 I’m currently working on MERN stack applications
