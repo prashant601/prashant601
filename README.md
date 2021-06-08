@@ -1,7 +1,7 @@
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-    Hey there! Nice to see you mate.</h1>
+    Hey there! Nice to see you ...</h1>
 
 
 <p>Welcome to my profile! </br> I'm Prashant from Kanpur, <img
@@ -16,7 +16,7 @@
 - 🔭 I’m currently working on MERN stack applications
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on projects
-- ⚡ Fun fact: i love movies and music        
+- ⚡ Fun fact: I love movies and music        
 
 ### Connect with me:
 
@@ -36,7 +36,7 @@
     <img alt="JavaScript" width="40" height="40"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
     <img alt="CPP"
-        src="https://img-premium.flaticon.com/png/512/919/919841.png?token=exp=1622792584~hmac=5b88ff498973aa0506f5a3c2ac0ffe97"
+        src="https://cdn.worldvectorlogo.com/logos/c.svg"
         height="40" width="40">
     <img alt="React" src="https://image.flaticon.com/icons/png/128/753/753244.png" height="40" width="40">
     <img alt="Node.js" width="40" height="40"
@@ -116,7 +116,12 @@
       <td><a href="https://image--gallery.herokuapp.com/"><b>Image gallery</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=0&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
-    </tr>  
+    </tr>
+    <tr>
+      <td><a href="https://movie--space.herokuapp.com/"><b>Movie Space</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=0&color=343b41?color=blue"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
+    </tr>
   </tbody>
 </table>
 
