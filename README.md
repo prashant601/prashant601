@@ -27,6 +27,7 @@
 
 
 <br />
+
         
         
 <h3>Languages and Tools:</h3>
@@ -94,7 +95,7 @@
   <tbody>
     <tr>
       <td><a href="https://todos--list.herokuapp.com/"><b>Todos-list</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=2&color=343b41?color=blue"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/static/v1?label=stars&message=3&color=343b41?color=blue"/></td>
       <td><img alt="Forks" src="https://img.shields.io/static/v1?label=forks&message=0&color=343b41?color=blue"/></td>
     </tr>
 	  <tr>
