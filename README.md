@@ -2,13 +2,18 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
     Hey there! Nice to see you ...</h1>
+    
+<span style="margin:20px" >
+	<img src="https://media4.giphy.com/media/unQ3IJU2RG7DO/200.gif" width="80" height="80" />
+</span>    
 
 
 <p>Welcome to my profile! </br> I'm Prashant from Kanpur, <img
         src="https://cdn4.iconfinder.com/data/icons/world-flags-12/512/Untitled-2-19-128.png"
-        width="35" margin-top="3px"/> <b> India</b></p>
+        width="35" margin-top="3px"/> <b> India</b>
+	</p>
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=prashant601&color=blueviolet" alt="Prashant Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prashant601&color=blueviolet" alt="Prashant's Profile Views" />
 </p>
 
 ### About me:
@@ -17,6 +22,9 @@
 - 🌱 I’m currently learning MERN stack
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I love movies and music        
+
+
+
 
 ### Connect with me:
 
