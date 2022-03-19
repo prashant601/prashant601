@@ -17,9 +17,9 @@
 </p>
 
 ### About me:
-- 👨‍🎓 I am CSE sophomore at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
+- 👨‍🎓 I am a CSE pre-final year student at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
 - 🔭 I’m currently working on MERN stack applications
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on projects
 - ⚡ Fun fact: I love movies and music        
 
