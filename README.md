@@ -1,7 +1,7 @@
 
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" />
-    Hey there! Nice to see you ...</h1>
+    Hey there!</h1>
     
 <span style="margin:20px" >
 	<img src="https://media4.giphy.com/media/unQ3IJU2RG7DO/200.gif" width="80" height="80" />
@@ -17,7 +17,7 @@
 </p>
 
 ### About me:
-- 👨‍🎓 I am a CSE pre-final year student at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
+- 👨‍🎓 I am a CSE final year student at MADAN MOHAN MALAVIYA UNIVERSITY OF TECHNOLOGY, GORAKHPUR.
 - 🔭 I’m currently working on MERN stack applications
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 👯 I’m looking to collaborate on projects
